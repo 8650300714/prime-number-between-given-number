@@ -1,0 +1,1 @@
+# prime-number-between-given-number
